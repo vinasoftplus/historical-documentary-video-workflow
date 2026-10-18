@@ -31,7 +31,7 @@ This folder contains instructions for browser automation. It is not a standalone
    Duration: 120 seconds.
    ```
 
-4. Let the agent complete generation and timeline assembly. It saves the project and clicks **Export Video**, then stops. It does not download the video.
+4. The agent generates the presenter clips and historical visuals, then provides narration text and a voice prompt. Create the voiceover in your chosen app and provide the audio for timeline assembly. The agent saves the project and exports after the voiceover is in place. It does not download the video.
 
 ## What it creates
 
