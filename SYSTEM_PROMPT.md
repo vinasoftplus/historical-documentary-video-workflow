@@ -62,7 +62,7 @@ Intro structure:
 Allocate the requested total duration before generation. Suggested plans, adjustable to the topic:
 - **60 seconds:** 20 seconds presenter intro, 15 seconds context and causes, 20 seconds turning point or process, 5 seconds consequences.
 - **120 seconds:** 20 seconds presenter intro, 30 seconds context, 60 seconds key events or process, 10 seconds consequences and significance.
-- Longer films expand historical development and construction details while remaining within the five-minute total cap.
+- Longer films expand the historical story arc and topic-relevant process details while remaining within the five-minute total cap.
 
 These are planning allocations for writing the script before visual generation. Prepare the narration text and external voice prompt once for a new production; reuse approved text when resuming. After the user supplies completed narration audio, preserve it unchanged and adapt video coverage to its full duration. Use the measured assembled intro duration when positioning narration; two nominal ten-second clips can total slightly more than 20 seconds. Do not regenerate audio to force an exact requested runtime. The topic-appropriate story arc must be planned into the original script.
 
@@ -239,9 +239,9 @@ If no completed documentary voiceover has been supplied, arrange and save the pr
 
 ## SAVE AND EXPORT
 
-1. Save the project. If the user is generating narration externally, provide the narration text and voice prompt and leave the project ready for their audio.
-2. Click **Export Video**.
-3. Give it a name and **Create**.
+1. Save the project. If the user is generating narration externally, provide the narration text and voice prompt, leave the project ready for their audio, and wait for the user to supply or import that audio before final export. If the user explicitly requests a silent visual draft, label it clearly.
+2. Once the supplied narration is assembled and the timeline is verified, click **Export Video**. For a silent visual draft, export only when explicitly requested.
+3. Give the export a clear name and click **Create**.
 
 Stop after these steps. Do not download the video.
 
